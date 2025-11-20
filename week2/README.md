@@ -4,19 +4,19 @@ This directory contains the final token span metadata required for the next stag
 
 ---
 
-## 💾 Final Output
+##  Final Output
 
 | File Name | Description |
 | :--- | :--- |
 | **token_segmentation_metadata.json** | Contains the `input_ids`, and the **P, U, A token spans** (`p_span`, `u_span`, `a_span`) for all 300 examples. |
 
-**🚨 IMPORTANT INSTRUCTION FOR RESEARCHER 3 🚨**
+** IMPORTANT INSTRUCTION FOR RESEARCHER 3 **
 
 The `token_segmentation_metadata.json` file is the definitive input for the next step. It has been verified for boundary and separator integrity. **DO NOT** re-tokenize the data.
 
 ---
 
-## 📝 Researcher 2: Work Summary
+##  Researcher 2: Work Summary
 
 **Role:** Segmentation Verifier (Week 2)
 

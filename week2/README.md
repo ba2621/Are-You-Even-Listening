@@ -1,4 +1,4 @@
-##  Researcher 2: Segmentation Verification and Metadata Handoff (FIXED)
+## Researcher 2: Segmentation Verification and Metadata Handoff (FIXED)
 
 I have completed the segmentation and verification task for the Week 2 Milestone. The final token span metadata required for the next stage of the data pipeline is available in this directory.
 

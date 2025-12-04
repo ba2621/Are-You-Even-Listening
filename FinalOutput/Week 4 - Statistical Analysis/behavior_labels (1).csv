@@ -1,0 +1,301 @@
+id,dataset,constraint_tags,assistant_generated,label,length_ok,keyword_ok,json_ok,no_explanations_ok,tone_concise_ok,reasons
+sharegpt_en:1357,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:6356,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+alpaca:10165,alpaca,length_limit,Short answer within limit.,,,,,,,length_limit_unparsed
+flan:2476,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:1655,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/50)
+flan:729,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:10236,alpaca,format_json,"{""answer"": ""ok"", ""value"": 1}",1.0,,,True,,,json_ok
+sharegpt_en:7807,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+flan:880,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:5801,sharegpt,format_json,not valid json,0.0,,,False,,,json_invalid
+sharegpt_en:2199,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2207,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1368,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:5197,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:2298,sharegpt,length_limit,Short answer within limit.,,,,,,,length_limit_unparsed
+alpaca:23429,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/20)
+sharegpt_en:7183,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:7393,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:28496,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:5937,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1016,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:18602,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+sharegpt_en:4344,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1191,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:24145,alpaca,keyword_X,Proceed with caution near wet floors.,0.0,,False,,,,keywords_missing(rationale)
+sharegpt_en:1396,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1856,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:32831,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+sharegpt_en:1666,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1395,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1206,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:15689,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+flan:2177,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:2799,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:2552,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2576,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:1730,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+flan:1581,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:8162,sharegpt,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:28944,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+alpaca:30648,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+flan:528,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:717,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:6165,alpaca,keyword_X,Be careful.,0.0,,False,,,,keywords_missing(reverie)
+flan:2109,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:4081,alpaca,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+flan:1184,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:35683,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/50)
+alpaca:24360,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/80)
+sharegpt_en:8239,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1329,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:2902,alpaca,keyword_X,Be careful.,0.0,,False,,,,keywords_missing(indignant)
+sharegpt_en:4636,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:6950,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,,,,,,,length_limit_unparsed
+sharegpt_en:457,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2596,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:1173,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:1244,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:11546,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+flan:1758,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:2070,sharegpt,length_limit,Short answer within limit.,,,,,,,length_limit_unparsed
+sharegpt_en:1026,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:6850,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+alpaca:36919,alpaca,keyword_X,Be careful.,0.0,,False,,,,keywords_missing(ubiquitous)
+flan:43,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:11554,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,0.0,False,,,,,length_violation(15/10)
+sharegpt_en:3495,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:1404,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:19064,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/20)
+sharegpt_en:873,sharegpt,format_json,not valid json,0.0,,,False,,,json_invalid
+flan:929,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:8552,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/50)
+flan:2694,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:2759,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:32550,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+flan:2618,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:195,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2361,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:2036,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:4557,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1126,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:183,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:6528,sharegpt,format_json,"{""answer"": ""ok"", ""value"": 1}",1.0,,,True,,,json_ok
+alpaca:23572,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+sharegpt_en:5134,sharegpt,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/40)
+flan:128,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:2713,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:6891,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:11550,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:8771,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1205,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2386,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1480,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:387,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:2077,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:6445,sharegpt,format_json,not valid json,0.0,,,False,,,json_invalid
+sharegpt_en:2905,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:3169,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,,,,,,,length_limit_unparsed
+alpaca:10669,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+sharegpt_en:2346,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:11549,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:11824,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+alpaca:31767,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:11104,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+flan:1754,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:6499,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1028,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:6996,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:28578,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:362,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+flan:687,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:3873,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/1000)
+alpaca:24300,alpaca,keyword_X,Proceed with caution near wet floors.,0.0,,False,,,,keywords_missing(anonymity)
+sharegpt_en:335,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1070,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:896,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:30386,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+flan:1047,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:30963,alpaca,keyword_X,Proceed with caution near wet floors.,1.0,,True,,,,keywords_na
+flan:2681,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:5171,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+alpaca:18071,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,0.0,False,,,,,length_violation(15/10)
+sharegpt_en:7002,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:3957,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:7946,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1428,flan,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,,,,,,,length_limit_unparsed
+alpaca:11123,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/150)
+flan:1629,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:3275,alpaca,keyword_X,Proceed with caution near wet floors.,0.0,,False,,,,keywords_missing(scrumptious)
+flan:664,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:281,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/50)
+sharegpt_en:6843,sharegpt,keyword_X,Be careful.,0.0,,False,,,,keywords_missing(brunet)
+alpaca:20496,alpaca,keyword_X,Proceed with caution near wet floors.,1.0,,True,,,,keywords_na
+flan:2345,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:26544,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+alpaca:21698,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+sharegpt_en:3180,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:2471,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1369,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:2206,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:31760,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/8)
+alpaca:16953,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/40)
+flan:2137,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:7011,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:668,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:9296,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/150)
+alpaca:24019,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/5)
+sharegpt_en:8204,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+flan:503,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:18171,alpaca,keyword_X,Be careful.,0.0,,False,,,,keywords_missing(squirrel)
+alpaca:10592,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/50)
+flan:2222,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:28,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2106,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:6723,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:8246,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:6720,sharegpt,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/400)
+alpaca:26844,alpaca,format_json,not valid json,0.0,,,False,,,json_invalid
+alpaca:19144,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+flan:2523,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:31314,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:33419,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+sharegpt_en:1633,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:8884,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,,,,,,,length_limit_unparsed
+flan:1988,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:21231,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/25)
+alpaca:14722,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:22053,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,0.0,False,,,,,length_violation(15/8)
+alpaca:36428,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+sharegpt_en:3062,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:5400,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:6862,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+alpaca:1043,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/15)
+sharegpt_en:261,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/200)
+sharegpt_en:7689,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:666,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:4203,sharegpt,keyword_X,Proceed with caution near wet floors.,0.0,,False,,,,keywords_missing(specialize)
+alpaca:10710,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/20)
+sharegpt_en:8708,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:6521,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+flan:864,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:110,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:2131,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:822,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:27949,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:11556,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+alpaca:24364,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/80)
+alpaca:7921,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+alpaca:7982,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/20)
+alpaca:18921,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/40)
+sharegpt_en:4405,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:2447,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:6757,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+sharegpt_en:4566,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:33424,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/10)
+sharegpt_en:3632,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/1000)
+alpaca:15208,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:28147,alpaca,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+flan:2195,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:869,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:18909,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/80)
+alpaca:22052,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,0.0,False,,,,,length_violation(15/8)
+flan:2458,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:87,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:7328,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:2657,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:3902,sharegpt,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/800)
+alpaca:2321,alpaca,keyword_X,Be careful.,0.0,,False,,,,keywords_missing(adventurous)
+sharegpt_en:128,sharegpt,keyword_X,Proceed with caution near wet floors.,0.0,,False,,,,keywords_missing(brunet)
+flan:260,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:2165,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2313,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:5025,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:24129,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+sharegpt_en:4842,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:1992,alpaca,keyword_X,Be careful.,1.0,,True,,,,keywords_na
+flan:1618,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:721,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:8090,sharegpt,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/180)
+alpaca:17161,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,,,,,,,length_limit_unparsed
+alpaca:11735,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/50)
+flan:1356,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:28627,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/150)
+flan:1978,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:678,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:25964,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/50)
+flan:2402,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:949,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/1000)
+sharegpt_en:4780,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:31315,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+flan:1617,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2053,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:1150,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2289,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:6270,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:1668,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:22684,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/25)
+sharegpt_en:7512,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:24109,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:7857,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+sharegpt_en:2241,sharegpt,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/1000)
+alpaca:2511,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,,,,,,,length_limit_unparsed
+flan:1799,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:11127,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/150)
+sharegpt_en:2405,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1171,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:3673,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:396,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:9100,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+flan:39,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:713,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:4938,sharegpt,format_json,not valid json,0.0,,,False,,,json_invalid
+alpaca:25464,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:233,sharegpt,tone_concise,This is a generic dummy answer.,1.0,,,,,True,tone_concise_ok(6/80)
+sharegpt_en:8238,sharegpt,keyword_X,Proceed with caution near wet floors.,1.0,,True,,,,keywords_na
+sharegpt_en:7112,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1411,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:3445,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+flan:2096,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:4551,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:5734,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/50)
+sharegpt_en:708,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:2561,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+alpaca:22685,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/25)
+sharegpt_en:5267,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:3421,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/50)
+sharegpt_en:1627,sharegpt,length_limit,Short answer within limit.,,,,,,,length_limit_unparsed
+flan:1407,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:6089,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:2396,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:8373,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+flan:42,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:12740,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:1610,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:81,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+sharegpt_en:271,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:4228,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:7718,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1115,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:11553,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,0.0,False,,,,,length_violation(15/10)
+alpaca:28490,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+alpaca:36704,alpaca,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)
+alpaca:9919,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/80)
+flan:469,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:9339,alpaca,keyword_X,Proceed with caution near wet floors.,1.0,,True,,,,keywords_na
+sharegpt_en:8104,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:3007,sharegpt,persona,This is a generic dummy answer.,,,,,,,
+flan:1522,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+flan:292,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:2745,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:8908,sharegpt,length_limit;persona,Short answer within limit.,,,,,,,length_limit_unparsed
+flan:566,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+sharegpt_en:5162,sharegpt,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+alpaca:1220,alpaca,keyword_X,Be careful.,0.0,,False,,,,"keywords_missing(Mount,Everest)"
+flan:305,flan,no_explanations,yes,1.0,,,,True,,no_explanations_ok(1 words)
+flan:1837,flan,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:4223,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:7398,sharegpt,no_explanations,"yes, because the premise clearly entails the hypothesis.",0.0,,,,False,,no_explanations_violation(explanation_marker)
+alpaca:2671,alpaca,length_limit,Short answer within limit.,1.0,True,,,,,length_ok(4/100)
+sharegpt_en:258,sharegpt,length_limit,This is a deliberately long answer that is likely to exceed any short word-limit constraint.,1.0,True,,,,,length_ok(15/100)

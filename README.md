@@ -3,7 +3,9 @@
 
 ### *Measuring Prompt Reliance Across Instruction-Tuning Datasets*
 
-This repository contains the full code, experiments, and reports for our COMS 4705 NLP project, **“Are You Even Listening?”**—a systematic investigation into how Large Language Models distribute attention across different segments of an instruction-tuned input.
+This repository contains the full code, experiments, and reports for our COMS 4705 NLP project, **“Are You Even Listening?”**—a systematic investigation into how Large Language Models distribute attention across different segments of an instruction-tuned input. Below is a general pictorial overview of our process:
+
+![PHOTO-2025-12-04-15-30-03](https://github.com/user-attachments/assets/48b00200-4ef4-4035-aabc-6821343cc224)
 
 ##  Project Goal
 
